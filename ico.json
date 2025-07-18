@@ -1,0 +1,10 @@
+{
+  "name": "icon",
+  "description": "test",
+  "icons": [
+    {
+      "name": "iqiyi",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/iqiyi.png"
+    }
+  ]
+}
