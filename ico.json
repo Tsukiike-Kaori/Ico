@@ -3,12 +3,12 @@
   "description": "test",
   "icons": [
     {
-      "name": "iqiyi",
-      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/iqiyi.png"
+      "name": "tencent",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/tencent.png"
     },
     {
-      "name": "iqiyi2",
-      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/iqiyi2.png"
+      "name": "iqiyi",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/iqiyi.png"
     }
   ]
 }
