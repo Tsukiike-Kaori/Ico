@@ -13,6 +13,10 @@
     {
       "name": "bilibili",
       "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/bilibili.png"
+    },
+    {
+      "name": "netflix",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/netflix.png"
     }
   ]
 }
