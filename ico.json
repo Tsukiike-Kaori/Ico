@@ -3,8 +3,12 @@
   "description": "test",
   "icons": [
     {
-      "name": "tencent",
-      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/tencent.png"
+      "name": "tencent1",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/tencent1.png"
+    },
+    {
+      "name": "tencent2",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/tencent2.png"
     },
     {
       "name": "iqiyi",
@@ -25,6 +29,18 @@
     {
       "name": "netflix",
       "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/netflix.png"
+    },
+    {
+      "name": "jm1",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/jm1.png"
+    },
+    {
+      "name": "jm2",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/jm2.png"
+    },
+    {
+      "name": "jm3",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/jm3.png"
     }
   ]
 }
