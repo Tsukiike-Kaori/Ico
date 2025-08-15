@@ -3,6 +3,10 @@
   "description": "test",
   "icons": [
     {
+      "name": "lhc",
+      "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/lhc.png"
+    },
+    {
       "name": "tencent1",
       "url": "https://raw.githubusercontent.com/Tsukiike-Kaori/Ico/refs/heads/main/tencent1.png"
     },
